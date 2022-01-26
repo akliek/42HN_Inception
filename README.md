@@ -5,4 +5,6 @@ Docker - is very important tool in today's programming, so it's very important t
 
 Links:
 
-Subject PDF: 
+Wikipedia about Docker: https://en.wikipedia.org/wiki/Docker_(software)
+
+Subject PDF: https://github.com/akliek/42HN_Inception/blob/master/en.subject.pdf
